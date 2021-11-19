@@ -1,0 +1,2 @@
+# Flutter Based UI
+This task kept me frustrated for a long time, since I had no single idea about dart or flutter or any sort of front-end development. So this gave me a hard time since the packages had their limitations and the other way was really confusing also some keywords/features had been changed due to updates and that kinda threw-me off too! but overall it was an intresting journey, though my UI is not exactly correct i managed to learn something here!
