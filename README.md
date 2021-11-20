@@ -5,7 +5,7 @@ I am Adithya Krishna, from trivandrum,Kerala, fresher at Amrita College of Engin
 
 | Tasks   | Description                      | Status                                                              |
 |---------|----------------------------------|---------------------------------------------------------------------|
-| Task-00 | Installing Ubuntu                | Completed                                                           |
+| [Task-00](https://github.com/The-Lennzer/amfoss-tasks/tree/main/task-00) | Installing Ubuntu                | Completed                                                           |
 | Task-01 | Star all the amfoss repositories | Completed                                                           |
 | Task-02 | Journey with linux and git       | Completed                                                           |
 | Task-03 | Programming                      | done 2 problems                                                     |
