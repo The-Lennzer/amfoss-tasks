@@ -38,7 +38,7 @@
     cd ..<br/>
     mv EastCoordinate.txt Coordinates-Location/<br/>
     cd Coordinates-Location<br/>
-    mv EastCoordinate
+    mv EastCoordinate<br/><br/>
 *Screenshot of the location in google maps*
 <p align="center"><img src="pic/map.png" alt="map-image" width="100%"/></a></p>
 <br/>
