@@ -6,21 +6,21 @@ I am Adithya Krishna, from trivandrum,Kerala, fresher at Amrita College of Engin
 | Tasks   | Description                      | Status                                                              |
 |---------|----------------------------------|---------------------------------------------------------------------|
 | [Task-00](https://github.com/The-Lennzer/amfoss-tasks/tree/main/task-00) | Installing Ubuntu                | Completed                                                           |
-| Task-01 | Star all the amfoss repositories | Completed                                                           |
-| Task-02 | Journey with linux and git       | Completed                                                           |
-| Task-03 | Programming                      | done 2 problems                                                     |
-| Task-04 | Aerglo mars                      | Not attempted yet                                                   |
-| Task-05 | Let Me C                         | Done(some logic errors are not fixed\| all syntax errors are fixed) |
-| Task-06 | Flutter based UI                 | Done: some pages are not as exact as in the problem                 |
-| Task-07 | Rich Scraper                     | Done: have issues with output                                       |
-| Task-08 | JSExplorer                       | Not attempted yet                                                   |
-| Task-09 | Personal-Website                 | Completed                                                           |
-| Task-10 | cs50                             | done upto week-3 and 1 pset(week 1)                                 |
-| Task-11 | Poster                           | Completed                                                           |
-| Task-12 | Make the Block                   | Not attempted yet                                                   |
-| Task-13 | Circuit Design                   | Completed                                                           |
-| Task-14 | Bandit                           | Completed                                                           |
-| Task-15 | Project Euler                    | Done few(timeout errors)                                            |
+| [Task-01](https://github.com/The-Lennzer/amfoss-tasks/tree/main/task-01) | Star all the amfoss repositories | Completed                                                           |
+| [Task-02](https://github.com/The-Lennzer/amfoss-tasks/tree/main/task-02) | Journey with linux and git       | Completed                                                           |
+| [Task-03](https://github.com/The-Lennzer/amfoss-tasks/tree/main/task-03) | Programming                      | done 2 problems                                                     |
+| [Task-04](https://github.com/The-Lennzer/amfoss-tasks/tree/main/task-04) | Aerglo mars                      | Not attempted yet                                                   |
+| [Task-05](https://github.com/The-Lennzer/amfoss-tasks/tree/main/task-05) | Let Me C                         | Done(some logic errors are not fixed\| all syntax errors are fixed) |
+| [Task-06](https://github.com/The-Lennzer/amfoss-tasks/tree/main/task-06) | Flutter based UI                 | Done: some pages are not as exact as in the problem                 |
+| [Task-07](https://github.com/The-Lennzer/amfoss-tasks/tree/main/task-07) | Rich Scraper                     | Done: have issues with output                                       |
+| [Task-08](https://github.com/The-Lennzer/amfoss-tasks/tree/main/task-08) | JSExplorer                       | Not attempted yet                                                   |
+| [Task-09](https://github.com/The-Lennzer/amfoss-tasks/tree/main/task-09) | Personal-Website                 | Completed                                                           |
+| [Task-10](https://github.com/The-Lennzer/amfoss-tasks/tree/main/task-10) | cs50                             | done upto week-3 and 1 pset(week 1)                                 |
+| [Task-11](https://github.com/The-Lennzer/amfoss-tasks/tree/main/task-11) | Poster                           | Completed                                                           |
+| [Task-12](https://github.com/The-Lennzer/amfoss-tasks/tree/main/task-12) | Make the Block                   | Not attempted yet                                                   |
+| [Task-13](https://github.com/The-Lennzer/amfoss-tasks/tree/main/task-13) | Circuit Design                   | Completed                                                           |
+| [Task-14](https://github.com/The-Lennzer/amfoss-tasks/tree/main/task-14) | Bandit                           | Completed                                                           |
+| [Task-15](https://github.com/The-Lennzer/amfoss-tasks/tree/main/task-15) | Project Euler                    | Done few(timeout errors)                                            |
 
 
 ## My Views About The Tasks
