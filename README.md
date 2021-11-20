@@ -1,4 +1,4 @@
 # amFoss-tasks
 ## Adithya Krishna
-|hehe|hello|
-|hehe1|hello|
+| hell0 | 1234 |
+| :--:  | 12345 |
